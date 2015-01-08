@@ -1,0 +1,15 @@
+bower_components
+data
+.git
+node_modules
+python_env
+__pycache__
+
+docker_build_stream
+.DS_Store
+.gitignore
+.travis.yml
+*.md
+
+*.pyc
+*.swp
